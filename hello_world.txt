@@ -3,3 +3,5 @@ Open hello_world.txt, add some text to it, save it and stage it.
 Test of git commit . to enter commit message in VS Code
 
 Testing for red text in command line
+
+Testing ability to commit mulitple line messages
